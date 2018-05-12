@@ -1,0 +1,30 @@
+_repo: Green-Spring-Farm-Fairfax-County-Virginia_33272
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33272-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Netherton, Ross De Witt
+    alias: Netherton, Ross D. (Ross De Witt)
+    birthdate: 1918
+    deathdate: 2010
+    gutenberg_agent_id: '33515'
+    url: http://www.gutenberg.org/2009/agents/33515
+  - agent_name: Netherton, Nan
+    gutenberg_agent_id: '36303'
+    url: http://www.gutenberg.org/2009/agents/36303
+description: ''
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Green Spring Farm (Va.)'
+title: Green Spring Farm, Fairfax County, Virginia
+url: http://www.gutenberg.org/ebooks/33272
